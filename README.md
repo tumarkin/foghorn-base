@@ -48,6 +48,7 @@ Foghorn is not yet on HAckage. For now, please clone the central Foghorn project
 
 ## Documentation
 
+- [Online **Haddock** documentation](https://tumarkin.github.io/foghorn-base)
 - In-source **Haddock** comments describe kinds, indices, and constraints.  
 - To build HTML docs locally:
   ```bash
